@@ -1,0 +1,18 @@
+formula
+12hr 360deg
+1hr  360/12 = 30deg
+1. for hour hand = (30h+m/2)
+
+60 min 30deg
+1= 1/2 deg
+m= m/2 rotation 
+
+
+60min = 360deg
+1min= 6deg
+2. m minutes = 6m deg
+
+for s hand 
+60 seconds= 360deg
+1sec = 6deg
+3. s seccond = 6s deg 
